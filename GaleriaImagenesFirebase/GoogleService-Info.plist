@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>210338792781-prf9ru7ndfdrh2aajb8uobojsthh5psl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.210338792781-prf9ru7ndfdrh2aajb8uobojsthh5psl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAazD_57PoF04_uaMI4_oBqs7o4JOt4RRE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>210338792781</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>GaleriaImagenesFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>galeriaimagenesfirebase</string>
+	<key>STORAGE_BUCKET</key>
+	<string>galeriaimagenesfirebase.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:210338792781:ios:52791f6a444b786b14e304</string>
+</dict>
+</plist>
